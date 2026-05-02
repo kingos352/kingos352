@@ -1,80 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:090979,70:00d4ff,100:7f00ff&height=260&section=header&text=ERSAN%20Y%C3%9CKSEKKAYA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Space%20Engineering%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Digital%20Products&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ERSAN%20Y%C3%9CKSEKKAYA&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+at+the+intersection+of+Space%2C+AI+and+Design;From+concept+to+prototype+to+product;Engineering+depth+%2B+visual+identity+%2B+real+impact;Designing+systems+that+feel+like+the+future" />
+### 🚀 Space Engineering • AI Systems • Digital Products
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Building+at+the+intersection+of+Space%2C+AI+and+Design;Turning+ideas+into+real+systems;Engineering+%2B+Story+%2B+Visual+Identity" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/ersan-yuksekkaya">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://ersanyuksekkaya.github.io/Portfolio/main.html">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="mailto:yuksekkayaersan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=kingos352&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kingos352&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 🧭 Identity
+## 🧭 About Me
 
-I am a **Space Engineering student** building at the intersection of  
+I am a **Space Engineering student** focused on building projects across  
 **space technologies, artificial intelligence, web systems, and design**.
 
-I don’t just build code — I build **systems, experiences, and ideas that turn into real products.**
+I don’t just write code — I design **systems, experiences, and ideas**  
+that can evolve into real-world products.
 
 ---
 
-## 🚀 Mission Control
+## 🚀 Focus Areas
 
-- 🤖 AI Assistants & Automation  
-- 🌐 Modern Web Interfaces  
-- 🚀 Space & Propulsion Concepts  
-- 🛰️ Hackathons & Innovation Projects  
-- 🎨 Visual Systems & Branding  
+- 🚀 Space technologies & propulsion concepts  
+- 🤖 AI systems & automation  
+- 🌐 Modern web interfaces  
+- 🛰️ Hackathons & innovation projects  
+- 🎨 Visual systems & branding  
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,github,git,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,figma" />
 
 </div>
 
 ---
 
-## 🌌 System Map
+## 📊 GitHub Stats
 
-```mermaid
-graph TD
-    A[🚀 Space] --> B[Deep Tech]
-    A --> C[Propulsion]
-    D[🤖 AI] --> E[Assistants]
-    D --> F[Automation]
-    G[🌐 Web] --> H[Interfaces]
-    G --> I[Products]
-    J[🎨 Design] --> K[Branding]
-    J --> L[Storytelling]
-    B --> M[Future Projects]
-    E --> M
-    H --> M
-    K --> M
-🐍 Contribution Animation
-<div align="center"> <img src="https://raw.githubusercontent.com/kingos352/kingos352/output/github-contribution-grid-snake-dark.svg" /> </div>
-🧠 Philosophy
+<div align="center">
 
-Engineering + Story + Visual Identity = Real Impact
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kingos352&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:090979,70:00d4ff,100:7f00ff&height=150&section=footer" />
-✨ The future is not something we wait for. We build it. ✨
-</div> ```
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingos352&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 Current Projects
+
+- 🚧 Portfolio Website  
+- 🚧 Enigma (Startup Concept)  
+- 🚧 AI Assistant Systems  
+- 🚧 Hackathon Projects  
+
+---
+
+## 🧠 Philosophy
+
+> A strong project = Engineering + Story + Visual Identity
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+
+### ✨ The future is not something we wait for. We build it. ✨
+
+</div>
