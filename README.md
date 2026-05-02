@@ -69,3 +69,12 @@ graph TD
     E --> M
     H --> M
     K --> M
+🐍 Contribution Animation
+<div align="center"> <img src="https://raw.githubusercontent.com/kingos352/kingos352/output/github-contribution-grid-snake-dark.svg" /> </div>
+🧠 Philosophy
+
+Engineering + Story + Visual Identity = Real Impact
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:090979,70:00d4ff,100:7f00ff&height=150&section=footer" />
+✨ The future is not something we wait for. We build it. ✨
+</div> ```
