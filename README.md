@@ -99,11 +99,9 @@ A deep-tech venture direction focused on aerospace R&D, electric propulsion, str
 
 ## GITHUB TELEMETRY
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingos352\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=020024\&title_color=00d4ff\&text_color=ffffff\&icon_color=7f00ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingos352&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingos352\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=020024\&title_color=00d4ff\&text_color=ffffff)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingos352&layout=compact&theme=tokyonight&hide_border=true)
 
 ## OPERATING PRINCIPLE
 
