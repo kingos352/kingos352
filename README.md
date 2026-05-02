@@ -44,7 +44,7 @@ I am especially interested in Hall Effect Thrusters, autonomous decision archite
 | Hall Effect Thruster | Concept design, system architecture, performance parameters, and plasma behavior analysis       |
 | Autonomous Rover AI  | Python-based image processing, route optimization, and two-layer decision architecture          |
 | TUSAS Hangar Campus  | Entrepreneurship and innovation program participant; 3rd place with Enigma                      |
-| TUA AstroHackathon   | Local leader for a national hackathon with 100+ participants and multi-stakeholder coordination |
+| TUA AstroHackathon   | Local leader for a national hackathon with 300+ participants and multi-stakeholder coordination |
 
 ---
 
